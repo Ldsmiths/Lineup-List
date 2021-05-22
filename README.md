@@ -1,4 +1,4 @@
-# Lineup List
+# Lineup List 
 [lineuplist.live](https://lineuplist.live)  
 A Spotify playlist generator for music festival lineups. Choose from different filters and playlist options to customize it to your tastes. See the [FAQ](views/faq.handlebars) for more information.
 
